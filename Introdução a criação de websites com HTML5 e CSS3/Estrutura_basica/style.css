@@ -15,10 +15,11 @@ body {
     font-size: 40px;
     text-transform: uppercase;
     text-align: center;
-    font-trans
 }
 
-#title, .subtitle, .post_title {
+#title,
+.subtitle,
+.post_title {
     color: #505050;
 }
 
